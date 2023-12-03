@@ -24,3 +24,10 @@ These instructions will help you set up and run the project on your local machin
 ```bash
 git clone https://github.com/your-username/your-weather-app.git
 cd your-weather-app
+
+Screen Recording
+
+
+
+https://github.com/AswinJagadeeshan/Weather_app/assets/97330821/aa303938-07a3-4c7f-93b5-d70c73ac0b24
+
